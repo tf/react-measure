@@ -41,7 +41,7 @@
     "react-dom": ">0.13.0"
   },
   "dependencies": {
-    "get-node-dimensions": "^1.2.0",
+    "get-node-dimensions": "tf/get-node-dimensions#no-clone-on-zero-dimension",
     "prop-types": "^15.5.4",
     "resize-observer-polyfill": "^1.4.1"
   },
